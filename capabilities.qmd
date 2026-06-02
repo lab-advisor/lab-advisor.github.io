@@ -1,0 +1,44 @@
+---
+title: "Core Capabilities"
+---
+
+# Core Capabilities
+
+ADVISOR supports research and applied transportation projects through integrated sensing, analytics, and visualization capabilities.
+
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6 .card-box}
+### High-Resolution Multimodal Mobility Data
+Collection and analysis of pedestrian, cyclist, vehicle, transit, and curbside activity.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card-box}
+### Real-Time Detection and Post-Processed Analytics
+Computer vision workflows for object detection, tracking, classification, and event extraction.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card-box}
+### Curbside Behavior and Obstruction Analysis
+Measurement of dwell time, double parking, occupancy, compliance, and access conflicts.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card-box}
+### Intersection and Crossing Insights
+Evaluation of pedestrian activity, crossings, conflicts, and near-miss patterns.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card-box}
+### Operational Traffic and Access Patterns
+Analysis of circulation, lane use, origin-destination patterns, and peak demand.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card-box}
+### Non-Motorized Mobility and Stress Detection
+Use of wearable sensors to understand pedestrian and cyclist stress in real environments.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card-box}
+### Environmental and Behavioral Data Integration
+Fusion of air quality, weather, physiological, and mobility data for richer decision-making.
+:::
+::::

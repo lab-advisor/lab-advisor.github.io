@@ -1,0 +1,25 @@
+---
+title: "About ADVISOR"
+---
+
+# About the Enterprise
+
+ADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. The enterprise connects computer vision, wearable sensing, environmental monitoring, and data analytics to generate actionable insights for safe, efficient, and resilient outcomes.
+
+## Mission
+
+To empower researchers, practitioners, agencies, and community partners with data-driven tools that improve transportation safety, operations, and resilience.
+
+## Vision
+
+To advance transportation systems that are safer, more efficient, more resilient, and more responsive to human experience.
+
+## Leadership and Staff
+
+- Mark Abkowitz
+- Ishita Dash
+- Paul Johnson
+- Daniel Caparella
+- Holly Panttila
+- Avery Christie
+- Mai Vo

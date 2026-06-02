@@ -1,0 +1,34 @@
+---
+title: "Featured Projects"
+---
+
+# Featured Projects
+
+## ADVISOR Platform
+
+ADVISOR integrates computer vision, air quality sensors, wearable devices, and data fusion methods to support transportation safety, operations, and resilience research.
+
+**Platform components include:**
+
+- Computer vision for object detection and tracking
+- Air quality and environmental sensors, including PM2.5, NO2, and weather data
+- Wearable sensing for heart rate and stress-related measures
+- Data fusion, analytics, visualization, and reporting workflows
+
+## Traffic Mobility: Medical Center Drive
+
+- Multimodal activity analysis using computer vision
+- Identification of peak demand patterns and safety risks
+- Generation of high-resolution trajectory and count data
+
+## Curbside Management: Sarratt Circle
+
+- Quantification of curbside violations and dwell times
+- Identification of operational conflicts affecting transit
+- Recommendations for curbside redesign and improved access management
+
+## Travel Behavior: Pedestrian Stress Study
+
+- Use of wearable sensors to measure stress in real environments
+- Identification of high-risk locations using physiological data
+- Support for human-centered infrastructure design

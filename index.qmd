@@ -1,0 +1,59 @@
+---
+title: "ADVISOR"
+subtitle: "Advanced Detection Via Integrated Sensors for Operational Resilience"
+---
+
+::: {.hero}
+# ADVISOR
+
+## Advanced Detection Via Integrated Sensors for Operational Resilience
+
+**Empowering researchers and practitioners with data-driven solutions.**
+
+ADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. Our work brings together computer vision, wearable devices, environmental sensing, and data analytics to generate actionable insights for safer, more efficient, and more resilient transportation systems.
+
+[Explore Projects](projects.qmd){.btn .btn-primary} [Contact Us](contact.qmd){.btn .btn-outline-primary}
+:::
+
+## Key Focus Areas
+
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3 .card-box}
+### Evidence-Based Planning
+Transportation planning supported by high-resolution multimodal data and analytics.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3 .card-box}
+### Safety Risk Identification
+Detection of conflict zones, near misses, and operational safety risks.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3 .card-box}
+### Operational Efficiency
+Analysis of access, circulation, curbside use, dwell time, and movement patterns.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3 .card-box}
+### Human Experience
+Integration of stress, environmental exposure, and behavioral data into transport policy.
+:::
+::::
+
+## Featured Projects
+
+:::: {.grid}
+::: {.g-col-12 .g-col-md-4 .project-card}
+### Traffic Mobility: Medical Center Drive
+Multimodal activity analysis using computer vision to identify peak demand patterns, safety risks, and high-resolution trajectory and count data.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+### Curbside Management: Sarratt Circle
+Analysis of curbside violations, dwell times, and operational conflicts affecting transit and access.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+### Pedestrian Stress Study
+Wearable sensor-based analysis of stress in real environments to support human-centered infrastructure design.
+:::
+::::

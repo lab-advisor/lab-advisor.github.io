@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ADVISOR"
+  site-url: "https://lab-advisor.github.io"
+  description: "Advanced Detection Via Integrated Sensors for Operational Resilience"
+  navbar:
+    background: "#1f2937"
+    foreground: "white"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: capabilities.qmd
+        text: Capabilities
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: news.qmd
+        text: News
+      - href: collaborations.qmd
+        text: Collaborations
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "ADVISOR | Advanced Detection Via Integrated Sensors for Operational Resilience"
+    right: "© Vanderbilt University"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
