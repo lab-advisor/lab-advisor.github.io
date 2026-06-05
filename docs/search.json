@@ -4,105 +4,126 @@
     "href": "collaborations.html",
     "title": "Collaborations",
     "section": "",
-    "text": "ADVISOR welcomes collaborations with transportation agencies, government partners, industry, non-profit organizations, and academic researchers.\n\n\n\nGovernment agencies\nIndustry partners\nNon-profit organizations\nAcademic collaborators\n\n\n\n\n\nResearch assistantships\nSummer internships\nPostdoctoral positions\nStaff positions\nResearch faculty positions"
+    "text": "Government\nIndustry\nNon-profit"
   },
   {
     "objectID": "collaborations.html#sponsorships",
     "href": "collaborations.html#sponsorships",
     "title": "Collaborations",
     "section": "",
-    "text": "Government agencies\nIndustry partners\nNon-profit organizations\nAcademic collaborators"
+    "text": "Government\nIndustry\nNon-profit"
   },
   {
-    "objectID": "collaborations.html#employment-opportunities",
-    "href": "collaborations.html#employment-opportunities",
+    "objectID": "collaborations.html#research-opportunities",
+    "href": "collaborations.html#research-opportunities",
     "title": "Collaborations",
-    "section": "",
-    "text": "Research assistantships\nSummer internships\nPostdoctoral positions\nStaff positions\nResearch faculty positions"
+    "section": "Research Opportunities",
+    "text": "Research Opportunities\n\nResearch assistantships\nUndergraduate and graduate research opportunities\nSummer internships\nPostdoctoral positions"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications and Insights",
     "section": "",
-    "text": "Coming soon.\n\n\n\nComing soon.\n\n\n\nComing soon."
+    "text": "ADVISOR research generates peer-reviewed publications, technical reports, conference presentations, and applied research products that support evidence-based transportation planning and decision-making."
   },
   {
-    "objectID": "publications.html#peer-reviewed-journal-articles",
-    "href": "publications.html#peer-reviewed-journal-articles",
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
     "title": "Publications and Insights",
-    "section": "",
-    "text": "Coming soon."
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nAddressing Extreme Weather in Transportation Asset Management Plans: A U.S. Perspective (2025)\nMeasuring Pedestrian Stress Response (MPSR) Using Wearable Technologies. Journal of Transportation Technologies (2024)\nFactors Impacting Bike Crash Severity in Urban Areas. Journal of Safety Research (2022)\nDesign and Implementation of an Integrated Technology System for Rail Shipper Safety & Security. Journal of Rail Transport Planning & Management (2021)"
   },
   {
-    "objectID": "publications.html#white-papers-and-technical-reports",
-    "href": "publications.html#white-papers-and-technical-reports",
+    "objectID": "publications.html#selected-technical-reports",
+    "href": "publications.html#selected-technical-reports",
     "title": "Publications and Insights",
-    "section": "",
-    "text": "Coming soon."
+    "section": "Selected Technical Reports",
+    "text": "Selected Technical Reports\n\nSarratt Circle Curbside Management Study\nMedical Center Drive – Computer Vision Operational Traffic Study"
   },
   {
     "objectID": "publications.html#conference-proceedings",
     "href": "publications.html#conference-proceedings",
     "title": "Publications and Insights",
-    "section": "",
-    "text": "Coming soon."
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\nA complete listing of publications, technical reports, conference proceedings, and research products will be available soon."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Featured Projects",
     "section": "",
-    "text": "ADVISOR integrates computer vision, air quality sensors, wearable devices, and data fusion methods to support transportation safety, operations, and resilience research.\nPlatform components include:\n\nComputer vision for object detection and tracking\nAir quality and environmental sensors, including PM2.5, NO2, and weather data\nWearable sensing for heart rate and stress-related measures\nData fusion, analytics, visualization, and reporting workflows\n\n\n\n\n\nMultimodal activity analysis using computer vision\nIdentification of peak demand patterns and safety risks\nGeneration of high-resolution trajectory and count data\n\n\n\n\n\nQuantification of curbside violations and dwell times\nIdentification of operational conflicts affecting transit\nRecommendations for curbside redesign and improved access management\n\n\n\n\n\nUse of wearable sensors to measure stress in real environments\nIdentification of high-risk locations using physiological data\nSupport for human-centered infrastructure design"
+    "text": "Computer vision (object detection, tracking)\nAir quality sensors (PM2.5, NO2, weather)\nWearables (heart rate, stress)\nData fusion and analytics"
   },
   {
-    "objectID": "projects.html#advisor-platform",
-    "href": "projects.html#advisor-platform",
+    "objectID": "projects.html#platform",
+    "href": "projects.html#platform",
     "title": "Featured Projects",
     "section": "",
-    "text": "ADVISOR integrates computer vision, air quality sensors, wearable devices, and data fusion methods to support transportation safety, operations, and resilience research.\nPlatform components include:\n\nComputer vision for object detection and tracking\nAir quality and environmental sensors, including PM2.5, NO2, and weather data\nWearable sensing for heart rate and stress-related measures\nData fusion, analytics, visualization, and reporting workflows"
+    "text": "Computer vision (object detection, tracking)\nAir quality sensors (PM2.5, NO2, weather)\nWearables (heart rate, stress)\nData fusion and analytics"
   },
   {
     "objectID": "projects.html#traffic-mobility-medical-center-drive",
     "href": "projects.html#traffic-mobility-medical-center-drive",
     "title": "Featured Projects",
-    "section": "",
-    "text": "Multimodal activity analysis using computer vision\nIdentification of peak demand patterns and safety risks\nGeneration of high-resolution trajectory and count data"
+    "section": "Traffic Mobility – Medical Center Drive",
+    "text": "Traffic Mobility – Medical Center Drive\n\nApplied computer vision and multimodal analytics to evaluate vehicle operations, pedestrian activity, and curbside interaction within a high-activity medical campus environment\nIdentified circulation patterns, access behaviors, localized delays, and pedestrian movement hotspots\nSupported data-driven recommendations for operational improvements, access management, and pedestrian safety enhancements"
   },
   {
     "objectID": "projects.html#curbside-management-sarratt-circle",
     "href": "projects.html#curbside-management-sarratt-circle",
     "title": "Featured Projects",
-    "section": "",
-    "text": "Quantification of curbside violations and dwell times\nIdentification of operational conflicts affecting transit\nRecommendations for curbside redesign and improved access management"
+    "section": "Curbside Management – Sarratt Circle",
+    "text": "Curbside Management – Sarratt Circle\n\nUsed computer vision analytics to quantify curbside activity, dwell times, and vehicle obstructions affecting campus shuttle operations\nIdentified recurring curbside violations, operational conflicts, and high-impact periods affecting shuttle circulation\nSupported recommendations for curbside management, operational efficiency, and multimodal safety improvements"
   },
   {
     "objectID": "projects.html#travel-behavior-pedestrian-stress-study",
     "href": "projects.html#travel-behavior-pedestrian-stress-study",
     "title": "Featured Projects",
-    "section": "",
-    "text": "Use of wearable sensors to measure stress in real environments\nIdentification of high-risk locations using physiological data\nSupport for human-centered infrastructure design"
+    "section": "Travel Behavior – Pedestrian Stress Study",
+    "text": "Travel Behavior – Pedestrian Stress Study\n\nUses wearable sensors to measure stress in real-world environments\nIdentifies high-risk locations using physiological data\nSupports human-centered infrastructure design"
+  },
+  {
+    "objectID": "projects.html#heat-stress-monitoring-and-worker-safety",
+    "href": "projects.html#heat-stress-monitoring-and-worker-safety",
+    "title": "Featured Projects",
+    "section": "Heat Stress Monitoring and Worker Safety",
+    "text": "Heat Stress Monitoring and Worker Safety\n\nInvestigates physiological and environmental indicators of heat stress in occupational settings\nIntegrates wearable sensors, environmental data, and machine learning for real-time heat strain detection\nSupports data-driven safety practices that reduce heat-related risks and improve workforce resilience"
+  },
+  {
+    "objectID": "projects.html#predictive-analytics-and-decision-support-systems",
+    "href": "projects.html#predictive-analytics-and-decision-support-systems",
+    "title": "Featured Projects",
+    "section": "Predictive Analytics and Decision Support Systems",
+    "text": "Predictive Analytics and Decision Support Systems\n\nCombines transportation, environmental, and weather data to create comprehensive monitoring and forecasting frameworks\nApplies machine learning to identify patterns, predict future conditions, and improve system performance\nEvaluates the factors influencing traffic patterns, safety risks, and air quality outcomes to support evidence-based decision-making\nEnables data-driven planning, policy evaluation, and operational decision-making for transportation agencies and communities"
+  },
+  {
+    "objectID": "projects.html#transportation-demand-management-and-commute-behavior-analytics",
+    "href": "projects.html#transportation-demand-management-and-commute-behavior-analytics",
+    "title": "Featured Projects",
+    "section": "Transportation Demand Management and Commute Behavior Analytics",
+    "text": "Transportation Demand Management and Commute Behavior Analytics\n\nEvaluates the effectiveness of commute incentives and transportation demand management strategies\nExamines how incentive structures influence driving and sustainable travel behavior\nSupports data-driven transportation planning, sustainability goals, and policy development"
   },
   {
     "objectID": "capabilities.html",
     "href": "capabilities.html",
     "title": "Core Capabilities",
     "section": "",
-    "text": "Core Capabilities\nADVISOR supports research and applied transportation projects through integrated sensing, analytics, and visualization capabilities.\n\n\nHigh-Resolution Multimodal Mobility Data\nCollection and analysis of pedestrian, cyclist, vehicle, transit, and curbside activity.\n\n\nReal-Time Detection and Post-Processed Analytics\nComputer vision workflows for object detection, tracking, classification, and event extraction.\n\n\nCurbside Behavior and Obstruction Analysis\nMeasurement of dwell time, double parking, occupancy, compliance, and access conflicts.\n\n\nIntersection and Crossing Insights\nEvaluation of pedestrian activity, crossings, conflicts, and near-miss patterns.\n\n\nOperational Traffic and Access Patterns\nAnalysis of circulation, lane use, origin-destination patterns, and peak demand.\n\n\nNon-Motorized Mobility and Stress Detection\nUse of wearable sensors to understand pedestrian and cyclist stress in real environments.\n\n\nEnvironmental and Behavioral Data Integration\nFusion of air quality, weather, physiological, and mobility data for richer decision-making."
+    "text": "High-Resolution Multimodal Mobility Data Collection and Analytics\nCollection and analysis of multimodal transportation activity across real-world environments.\n\n\nReal-Time Detection, Tracking, and Post-Processed Analytics\nComputer vision workflows for detection, tracking, classification, and event extraction.\n\n\nCurbside Behavior and Obstruction Analysis\nMeasurement of curbside activity, dwell times, obstructions, and access conflicts.\n\n\nIntersection and Crossing Insights\nEvaluation of pedestrian activity, crossings, conflict zones, and movement patterns.\n\n\nTransportation Operations, Traffic, and Mobility Pattern Assessment\nAnalysis of traffic operations, circulation, access behavior, and mobility patterns.\n\n\nWearable Sensing for Non-Motorized Mobility Stress Detection and Heat Exposure Monitoring\nUse of wearable sensors to evaluate stress, heat exposure, and human-centered mobility outcomes.\n\n\nEnvironmental Monitoring and Transportation Emissions Assessment\nIntegration of environmental sensing, air quality data, and transportation activity measures.\n\n\nPredictive Analytics and Decision Support Systems\nForecasting and analytical tools to support planning, policy evaluation, and operational decision-making.\n\n\nIntegration of Transportation, Environmental, and Behavioral Data\nData fusion across mobility, environmental, physiological, and behavioral data sources."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Us",
     "section": "",
-    "text": "Contact Us\nFor collaboration, sponsorship, student opportunities, or research inquiries, please contact the ADVISOR team.\nWebsite: https://lab-advisor.github.io\nEmail: Add Vanderbilt contact email here."
+    "text": "ADVISOR Research Lab\nDepartment of Civil & Environmental Engineering\nVanderbilt University\nContact:\nIshita Dash\nishita.dash@vanderbilt.edu"
   },
   {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News and Events",
     "section": "",
-    "text": "Coming soon.\n\n\n\nComing soon.\n\n\n\nComing soon."
+    "text": "Coming soon."
   },
   {
     "objectID": "news.html#advisor-news",
@@ -115,70 +136,84 @@
     "objectID": "news.html#upcoming-events",
     "href": "news.html#upcoming-events",
     "title": "News and Events",
-    "section": "",
-    "text": "Coming soon."
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\nComing soon."
   },
   {
     "objectID": "news.html#media-gallery",
     "href": "news.html#media-gallery",
     "title": "News and Events",
-    "section": "",
-    "text": "Coming soon."
+    "section": "Media Gallery",
+    "text": "Media Gallery\nComing soon."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ADVISOR",
+    "title": "",
     "section": "",
-    "text": "Empowering researchers and practitioners with data-driven solutions.\nADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. Our work brings together computer vision, wearable devices, environmental sensing, and data analytics to generate actionable insights for safer, more efficient, and more resilient transportation systems.\nExplore Projects Contact Us"
+    "text": "Empowering Researchers and Practitioners with Data-Driven Solutions\nADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. Our work combines computer vision, wearable devices, and data analytics to generate actionable insights for safe, efficient, and resilient outcomes.\nExplore Projects Contact Us"
   },
   {
     "objectID": "index.html#advanced-detection-via-integrated-sensors-for-operational-resilience",
     "href": "index.html#advanced-detection-via-integrated-sensors-for-operational-resilience",
-    "title": "ADVISOR",
+    "title": "",
     "section": "",
-    "text": "Empowering researchers and practitioners with data-driven solutions.\nADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. Our work brings together computer vision, wearable devices, environmental sensing, and data analytics to generate actionable insights for safer, more efficient, and more resilient transportation systems.\nExplore Projects Contact Us"
+    "text": "Empowering Researchers and Practitioners with Data-Driven Solutions\nADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. Our work combines computer vision, wearable devices, and data analytics to generate actionable insights for safe, efficient, and resilient outcomes.\nExplore Projects Contact Us"
   },
   {
     "objectID": "index.html#key-focus-areas",
     "href": "index.html#key-focus-areas",
-    "title": "ADVISOR",
+    "title": "",
     "section": "Key Focus Areas",
-    "text": "Key Focus Areas\n\n\nEvidence-Based Planning\nTransportation planning supported by high-resolution multimodal data and analytics.\n\n\nSafety Risk Identification\nDetection of conflict zones, near misses, and operational safety risks.\n\n\nOperational Efficiency\nAnalysis of access, circulation, curbside use, dwell time, and movement patterns.\n\n\nHuman Experience\nIntegration of stress, environmental exposure, and behavioral data into transport policy."
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "ADVISOR",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n\nTraffic Mobility: Medical Center Drive\nMultimodal activity analysis using computer vision to identify peak demand patterns, safety risks, and high-resolution trajectory and count data.\n\n\nCurbside Management: Sarratt Circle\nAnalysis of curbside violations, dwell times, and operational conflicts affecting transit and access.\n\n\nPedestrian Stress Study\nWearable sensor-based analysis of stress in real environments to support human-centered infrastructure design."
+    "text": "Key Focus Areas\n\n\nEvidence-Based Transportation Planning\nHigh-resolution data and analytics to support transportation planning and policy decisions.\n\n\nSafety Risks and Conflict Zones\nIdentification of safety risks, conflict zones, and operational challenges in real-world settings.\n\n\nOperational Efficiency\nAnalysis of access, circulation, curbside use, dwell time, and mobility patterns.\n\n\nHuman Experience\nIntegration of stress, environmental exposure, and behavioral data into transport policy."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About ADVISOR",
+    "title": "About",
     "section": "",
-    "text": "ADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. The enterprise connects computer vision, wearable sensing, environmental monitoring, and data analytics to generate actionable insights for safe, efficient, and resilient outcomes.\n\n\nTo empower researchers, practitioners, agencies, and community partners with data-driven tools that improve transportation safety, operations, and resilience.\n\n\n\nTo advance transportation systems that are safer, more efficient, more resilient, and more responsive to human experience.\n\n\n\n\nMark Abkowitz\nIshita Dash\nPaul Johnson\nDaniel Caparella\nHolly Panttila\nAvery Christie\nMai Vo"
+    "text": "ADVISOR combines sensing and analytics systems to study multimodal transportation, human behavior, and environmental conditions in real-world settings. Our work combines computer vision, wearable devices, and data analytics to generate actionable insights for safe, efficient, and resilient outcomes."
   },
   {
-    "objectID": "about.html#mission",
-    "href": "about.html#mission",
-    "title": "About ADVISOR",
-    "section": "",
-    "text": "To empower researchers, practitioners, agencies, and community partners with data-driven tools that improve transportation safety, operations, and resilience."
+    "objectID": "about.html#faculty",
+    "href": "about.html#faculty",
+    "title": "About",
+    "section": "Faculty",
+    "text": "Faculty\n\nMark Abkowitz\nIshita Dash"
   },
   {
-    "objectID": "about.html#vision",
-    "href": "about.html#vision",
-    "title": "About ADVISOR",
-    "section": "",
-    "text": "To advance transportation systems that are safer, more efficient, more resilient, and more responsive to human experience."
+    "objectID": "about.html#research-staff",
+    "href": "about.html#research-staff",
+    "title": "About",
+    "section": "Research Staff",
+    "text": "Research Staff\n\nPaul Johnson"
   },
   {
-    "objectID": "about.html#leadership-and-staff",
-    "href": "about.html#leadership-and-staff",
-    "title": "About ADVISOR",
-    "section": "",
-    "text": "Mark Abkowitz\nIshita Dash\nPaul Johnson\nDaniel Caparella\nHolly Panttila\nAvery Christie\nMai Vo"
+    "objectID": "about.html#collaborators",
+    "href": "about.html#collaborators",
+    "title": "About",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nDaniel Caparella\nRacheal Muscatello"
+  },
+  {
+    "objectID": "about.html#current-graduate-researchers",
+    "href": "about.html#current-graduate-researchers",
+    "title": "About",
+    "section": "Current Graduate Researchers",
+    "text": "Current Graduate Researchers\n\nErin Hafkenschiel\nNajma Thomas"
+  },
+  {
+    "objectID": "about.html#alumni",
+    "href": "about.html#alumni",
+    "title": "About",
+    "section": "Alumni",
+    "text": "Alumni\n\nLauren Gardner"
+  },
+  {
+    "objectID": "about.html#current-undergraduate-researchers",
+    "href": "about.html#current-undergraduate-researchers",
+    "title": "About",
+    "section": "Current Undergraduate Researchers",
+    "text": "Current Undergraduate Researchers\n\nHolly Panttila\nAvery Christie\nMai Vo"
   }
 ]

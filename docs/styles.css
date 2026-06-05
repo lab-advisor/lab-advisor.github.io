@@ -14,15 +14,16 @@ h1, h2, h3 {
   margin-bottom: 2rem;
   background: linear-gradient(135deg, #f8fafc 0%, #e5e7eb 100%);
   border-radius: 18px;
+  text-align: center;
 }
 
-.hero h1 {
-  font-size: 4rem;
-  letter-spacing: 0.03em;
+.hero img {
+  max-width: 620px;
+  margin-bottom: 1.5rem;
 }
 
 .hero h2 {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   color: #374151;
 }
 
@@ -43,6 +44,11 @@ h1, h2, h3 {
 .navbar-title {
   font-weight: 800;
   letter-spacing: 0.03em;
+}
+
+.navbar-logo {
+  max-height: 34px;
+  width: auto;
 }
 
 .btn {
